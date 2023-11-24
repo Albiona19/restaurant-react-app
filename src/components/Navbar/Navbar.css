@@ -47,3 +47,9 @@
     height: 30px;
     background-color: var(--color-grey);
 }
+.app__navbar-smallscren{
+    display: none;
+}
+.app__navbar-smallscren_overlay{
+    
+}
