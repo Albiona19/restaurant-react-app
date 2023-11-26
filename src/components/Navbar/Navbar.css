@@ -26,7 +26,7 @@
     cursor: pointer;
 }
 .app__navbar-links li:hover{
-    color: var(--color-gray);
+    color: var(--color-golden);
 }
 .app__navbar-login{
     display: flex;
