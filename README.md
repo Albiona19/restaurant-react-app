@@ -18,5 +18,5 @@ This is the finished project with react. In this project, I have built a modern 
 +  React functional components and their reuse
 + React file and folder structure
 +  Basic #CSS properties to master flex & grid
-+Basics of the BEM CSS model
++ Basics of the BEM CSS model
 + From smooth and pleasant animations to complex gradients
