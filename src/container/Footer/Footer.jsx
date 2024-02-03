@@ -28,7 +28,7 @@ const Footer = () => (
           <FiInstagram />
         </div>
       </div>
-
+{/* Links */}
       <div className="app__footer-links_work">
         <h1 className="app__footer-headtext">Working Hours</h1>
         <p className="p__opensans">Monday-Friday:</p>
