@@ -16,5 +16,5 @@ const Newsletter = () => (
     </div>
   </div>
 );
-
+// finished
 export default Newsletter;
