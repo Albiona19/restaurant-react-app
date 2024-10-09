@@ -9,3 +9,14 @@ This is the finished project with react. In this project, I have built a modern 
 ![4](https://github.com/Albiona19/restaurant-react-app/assets/84641601/b98de3ac-b738-49d9-ac3c-32c65839fac4)
 ![5](https://github.com/Albiona19/restaurant-react-app/assets/84641601/320c6375-25a2-4626-be67-07d73dd22cdf)
 ![6](https://github.com/Albiona19/restaurant-react-app/assets/84641601/1d55b185-a98d-4620-a018-285fef54321a)
+
+
+
+## 💻 the following were used in this project:
+
+
++  React functional components and their reuse
++ React file and folder structure
++  Basic #CSS properties to master flex & grid
++ Basics of the BEM CSS model
++ From smooth and pleasant animations to complex gradients
