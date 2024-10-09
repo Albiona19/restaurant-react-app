@@ -5,6 +5,7 @@
     display: flex;
     flex-direction: column;
 }
+/* head of menuItem,sub,name,dash,price */
 .app__menuItem-head{
     display: flex;
     justify-content: space-between;
